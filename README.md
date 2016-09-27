@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 openmrs-module-basicmodule
 ==========================
 
@@ -30,3 +31,6 @@ If uploads are not allowed from the web (changable via a runtime property), you 
 into the ~/.OpenMRS/modules folder.  (Where ~/.OpenMRS is assumed to be the Application 
 Data Directory that the running openmrs is currently using.)  After putting the file in there 
 simply restart OpenMRS/tomcat and the module will be loaded and started.
+=======
+# openmrs-module-myFirstModule
+>>>>>>> 240446c7c181e51f33b079b700ee1e3d5a3f060c
